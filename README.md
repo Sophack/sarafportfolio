@@ -1,8 +1,10 @@
 # sarafportfolio
 # I am creating a portfolio with my qualifications so that future employers can see right-away what I have to offer.
+
 # it will meet the following criteria :
 
-# A sample of my previous work
+# A sample of my previous work ()
+
 # Present my name, a recent photo or avatar, and links to sections about me, my work, and how to contact me 
 
 # links in the navigation scrolls to the corresponding section
